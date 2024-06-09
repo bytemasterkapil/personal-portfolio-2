@@ -52,7 +52,7 @@ If you have any feedback, please reach out to us at mraryan954884@gmail.com
 
 ## License
 
-[MIT](https://github.com/bytemasterkapil/personal-portfolio-2/blob/main/LICENSE)()
+[MIT](https://github.com/bytemasterkapil/personal-portfolio-2/blob/main/LICENSE)
 
 
 ## Screenshots
