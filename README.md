@@ -52,17 +52,17 @@ If you have any feedback, please reach out to us at mraryan954884@gmail.com
 
 ## License
 
-[MIT](https://github.com/bytemasterkapil/My-Portfolio/blob/main/LICENSE)()
+[MIT](https://github.com/bytemasterkapil/personal-portfolio-2/blob/main/LICENSE)()
 
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/bytemasterkapil/My-Portfolio/blob/main/Screenshot-1.jpg)
-![Screenshot 2](https://github.com/bytemasterkapil/My-Portfolio/blob/main/Screenshot-2.jpg)
-![Screenshot 3](https://github.com/bytemasterkapil/My-Portfolio/blob/main/Screenshot-3.jpg)
-![Screenshot 4](https://github.com/bytemasterkapil/My-Portfolio/blob/main/Screenshot-4.jpg)
-![Screenshot 5](https://github.com/bytemasterkapil/My-Portfolio/blob/main/Screenshot-5.jpg)
-![Screenshot 6](https://github.com/bytemasterkapil/My-Portfolio/blob/main/Screenshot-6.jpg)
+![Screenshot 1](https://github.com/bytemasterkapil/personal-portfolio-2/blob/main/Screenshot-1.jpg)
+![Screenshot 1](https://github.com/bytemasterkapil/personal-portfolio-2/blob/main/Screenshot-2.jpg)
+![Screenshot 1](https://github.com/bytemasterkapil/personal-portfolio-2/blob/main/Screenshot-3.jpg)
+![Screenshot 1](https://github.com/bytemasterkapil/personal-portfolio-2/blob/main/Screenshot-4.jpg)
+![Screenshot 1](https://github.com/bytemasterkapil/personal-portfolio-2/blob/main/Screenshot-5.jpg)
+
 
 ## 🚀 About Me
 I'm a Web Developer and Data Analytics...
